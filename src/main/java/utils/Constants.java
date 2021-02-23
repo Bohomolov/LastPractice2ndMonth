@@ -6,4 +6,7 @@ public class Constants {
 
 
     public final static String ARRAY_IS_EMPTY_OR_NULL = "Array is empty or null.";
+
+    public final static String REGEX = "[\\[\\](){}]";
+
 }
